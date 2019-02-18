@@ -10,7 +10,7 @@ debug = False
 
 zmin = 0.05
 zmax = 0.465
-redshift = 1.0 #0.341
+redshift = 1. #0.341
 
 biases = [1.3]
 b2 = [-0.74]
